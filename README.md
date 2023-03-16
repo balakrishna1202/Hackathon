@@ -23,8 +23,6 @@ Overall, this diet recommendation system provides a practical and data-driven ap
 ### ✅Train the model using Intel oneDAL to get better results and faster computation(Intel oneAPI Data Analytics Library (oneDAL))
 ![intel](https://user-images.githubusercontent.com/72274851/218504609-585bcebe-5101-4477-bdd2-3a1ba13a64a8.png)
 
-![image](https://user-images.githubusercontent.com/72274851/220109054-42f1cda1-3aa9-4c2c-92d7-0a957a9ad084.png)
-
 ### ✅Save the model
 
 
